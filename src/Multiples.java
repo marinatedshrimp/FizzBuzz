@@ -29,5 +29,4 @@ public class Multiples {
 
 }
 
-//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
 

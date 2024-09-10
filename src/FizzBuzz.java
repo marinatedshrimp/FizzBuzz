@@ -67,8 +67,4 @@ class FizzBuzz {
         i++;
         return i;
     }
-<<<<<<< HEAD
-=======
->>>>>>> 9fd4151 (hi)
->>>>>>> newbranch
-}
+
